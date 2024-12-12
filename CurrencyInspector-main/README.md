@@ -5,7 +5,7 @@ The Currency Inspector Project is a machine learning application designed to ins
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/anubhavsultania/CurrencyInspector.git
+   git clone [https://github.com/vasu737et/Currency-Inspector.git]
    cd CurrencyInspector
    ```
 2. **Install the requirements**:
